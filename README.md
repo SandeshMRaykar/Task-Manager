@@ -1,6 +1,6 @@
 ﻿# Task-Manager
 
-TaskManager is a simple task management application developed using React and Redux. It allows users to create, edit, and delete tasks easily.
+TaskManager is a simple task management application developed using React and Redux. It allows users to create, organize, and delete tasks easily.
 
 Features
 Create new tasks with title, description and duedae.
