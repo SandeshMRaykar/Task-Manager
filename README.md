@@ -7,12 +7,12 @@ Create new tasks with title, description and duedae.
 Organize tasks based on Pending and completed states.
 Delete tasks that are no longer needed.
 
-Technologies Used
+# Technologies Used :
 React
 Redux
 Bootstrap
 
-Installation
+# Installation
 Clone the repository to your local machine:
 bash
 Copy code
@@ -26,7 +26,7 @@ bash
 Copy code
 npm install
 
-Running the Application
+# Running the Application
 Once the installation is complete, you can start the application by running:
 
 bash
